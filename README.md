@@ -1,7 +1,12 @@
-# NUS-EE5731-Projects(Visual Computing)
-Semester1 AV21/22. 2 projects for NUS EE5731 Visual Computing, detailed requirements are in attached PDF. Images and video resources are available by links in PDF. 
+# nus-visual-computing-ee5731
+Semester1 AV21/22. 2 projects for NUS EE5731 Visual Computing, requirements attached as PDF. Images and video resources are available by links in PDF. 
 
 Please give me a star if you find this repo useful. Thanks!
+
+Other NUS Course Projects: 
+- [EE5904 Neural Networks](https://github.com/jjjllxx/nus-neural-networks-ee5904-me5904)
+- [EE5907 Pattern Recognition](https://github.com/jjjllxx/nus-pattern-recognition-ee5907)
+- [EE5934 Deep Learning](https://github.com/jjjllxx/nus-deep-learning-ee5934)
 
 # Project1
 ## Part1 Gaussian Kernel, Sobel Kernel and Haar-like masks
